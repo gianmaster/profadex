@@ -1,0 +1,32 @@
+{
+  data: [
+  {
+    id: 1,
+    name: "nalgasour",
+    height: 7,
+    order: 1,
+    weight: 69,
+    type: ['planta', 'heces', 'veneno'],
+    attacks: [
+      {name: 'latigo fecal', points: 23},
+      {name: 'rayo solar por el ano', points: 32},
+      {name: 'piquito venenoso', points: 8},
+    ],
+    base_experience: 143,
+    strengths:['caca', 'chotas'],
+    weaknesses: ['heteros', 'mujeres', 'comics'],
+    evolution: [
+      {
+        id: 2,
+        name: "Ianusour"
+      },
+      {
+        id: 3,
+        name: "AnoVenosour"
+      },
+    ],
+    locations: ['zonas rurales', 'suburvios con negros', 'el cuarto de isaac'],
+    avatar: 'profadex/pokemon_1.png'
+  }
+]
+}
